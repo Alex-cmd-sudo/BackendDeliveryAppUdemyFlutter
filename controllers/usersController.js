@@ -176,8 +176,7 @@ module.exports = {
                     message: 'El usuario se actualizo correctamente',
                     data: myData
                 });
-            });
-      
+            });      
         });
     },
 
